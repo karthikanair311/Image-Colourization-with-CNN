@@ -11,3 +11,9 @@ The core of this notebook focuses on an auto-encoder network. Not only does this
 ## Aim
 
 The primary aim of this notebook is experimental, exploring the efficacy of a basic auto-encoder in image colorization. While more sophisticated and advanced methods exist for this task, yielding impressive outcomes, this notebook aims to showcase the performance of a fundamental auto-encoder in addressing the challenge of image colorization.
+
+## For Reference
+
+https://ieeexplore.ieee.org/abstract/document/9793234
+https://learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
+https://www.mdpi.com/2227-7390/8/12/2258
