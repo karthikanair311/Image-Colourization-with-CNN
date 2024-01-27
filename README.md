@@ -1,4 +1,4 @@
-# Image-Colourization-with-CNN
+# Image Colourization with CNN
 
 ## Introduction
 
